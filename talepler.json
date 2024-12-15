@@ -1,0 +1,10 @@
+[
+    {
+        "talep_no": 1,
+        "talep_eden": "damla",
+        "urun_adi": "kalem",
+        "miktar": 6,
+        "gerekce": "lazım",
+        "durum": "Onaylandı"
+    }
+]
